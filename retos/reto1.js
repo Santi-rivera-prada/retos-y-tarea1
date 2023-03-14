@@ -11,12 +11,12 @@ function palindrome(text) {
   }
 
   
-  console.log(palindrome("ana")); // true
-console.log(palindrome("Amor a Roma")); // true
-console.log(palindrome("A Toyota's a toyota")); // true
-console.log(palindrome("No deseo ese don")); // true
-console.log(palindrome("Hola mundo")); // false
-console.log(palindrome("¿Acaso hubo búhos acá?")); // true
-console.log(palindrome("¡Oh, no! Don Evaristo hizo eso de veo tan odioso")); // true
+  console.log(palindrome("ana")); 
+console.log(palindrome("Amor a Roma")); 
+console.log(palindrome("A Toyota's a toyota")); 
+console.log(palindrome("No deseo ese don")); 
+console.log(palindrome("Hola mundo")); 
+console.log(palindrome("¿Acaso hubo búhos acá?")); 
+console.log(palindrome("¡Oh, no! Don Evaristo hizo eso de veo tan odioso")); 
 
 
